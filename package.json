@@ -1,0 +1,28 @@
+{
+  "name": "rest-api-tutorials",
+  "version": "1.0.0",
+  "description": "Tutorials to help me practive and improve my Node JS and REST skills.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MickStick/REST-Api-Tutorials.git"
+  },
+  "keywords": [
+    "REST",
+    "Api",
+    "Node",
+    "JS"
+  ],
+  "author": "Mikhail Rene Shaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MickStick/REST-Api-Tutorials/issues"
+  },
+  "homepage": "https://github.com/MickStick/REST-Api-Tutorials#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}

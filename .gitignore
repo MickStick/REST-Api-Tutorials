@@ -56,6 +56,4 @@ typings/
 
 # dotenv environment variables file
 .env
-# package file
-package.json
 
